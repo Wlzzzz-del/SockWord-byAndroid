@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bsw7z\Desktop\aspj\SockWord\app\libs\AssetsDataBase.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cfbb81e7de6c101c83125d16fd75be79ff226f5e">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\AssetsDataBase-1f9ed49330216c5953b86df2abdf664f7877267b.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\classes-f8573b549b082a7ebe22db703393df7b2d3ba878.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\classes-19d14254c475dc1f483f59229e8a5c9556847146.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\5.0\3382b8260646dd334a1b9c1b3d412fcb73d8b21\ormlite-core-5.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\ormlite-core-5.0-a856ce9ca86ae5ec147f59ec524904ccf0725761.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\Desktop\aspj\SockWord\app\libs\Msc.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6265bae5c8d9d398b3280d7708523871c2bf95e6">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\Msc-1a3853bb1dbb579dd0ae81aff0fc502aa6cc6888.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\.gradle\caches\modules-2\files-2.1\de.greenrobot\greendao\2.0.0\5f49dd477c1621dfaf0f7fe5d755fe4f07526af2\greendao-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f49dd477c1621dfaf0f7fe5d755fe4f07526af2">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\greendao-2.0.0-578549eaa90e55571400ecf512c262358410b78a.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\23.4.0\ffbe55fdb2bb456b1485831706a9eac3300bb6b8\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0-d290aeb9379ab874c725fa87e68fb1e36325d3bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\classes-68c20f107d525965cd727c8a1e1ab877c97c4c26.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\classes-72123a43ca52744ca7f085a2c430b390b74428cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\5.0\1f065373aeef355dd9e2fd9854efd5ed4d54f6d\ormlite-android-5.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\ormlite-android-5.0-9b05e837255cd14e8991adb442ed82e0fbfdbb82.jar" />
+    </item>
+    <item
+        jar="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\bsw7z\Desktop\aspj\SockWord\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0-5fa5b95670e908c6a40097ec5738fc3c802a2ad9.jar" />
+    </item>
+
+</items>
